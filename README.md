@@ -1,5 +1,4 @@
-# solidity-learning
-A collection of Solidity smart contracts and projects built while learning blockchain development, from beginner to advanced.
+
 # Solidity Learning 🚀
 
 This repository contains the Solidity smart contracts and projects I build while learning blockchain development.
