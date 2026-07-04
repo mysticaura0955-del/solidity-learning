@@ -7,7 +7,8 @@ This repository contains the Solidity smart contracts and projects I build while
 
 - ✅ Simple Storage
 - ✅ Counter
-- ⏳ Student Record Manager
+- ✅ Student Record Manager
+- ⏳ wallet
 - ⏳ Todo List
 - ⏳ Voting System
 - ⏳ Bank Contract
